@@ -1,0 +1,400 @@
+{'Name': 'CR1', 'Section': 'J', 'Time': '8:00-9:00', 'Teacher': 'Wali', 'Status': 'Booked', 'Day': 'Monday'}
+{'Name': 'CR1', 'Section': 'A', 'Time': '9:00-10:00', 'Teacher': 'Taha', 'Status': 'Booked', 'Day': 'Monday'}
+{'Name': 'CR1', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR1', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR1', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR1', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR1', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR1', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR1', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR1', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR1', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR1', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR1', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR1', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR1', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR1', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR1', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR1', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR1', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR1', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR1', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR1', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR1', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR1', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR1', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR2', 'Section': 'E', 'Time': '8:00-9:00', 'Teacher': 'Ashir', 'Status': 'Booked', 'Day': 'Monday'}
+{'Name': 'CR2', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR2', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR2', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR2', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR2', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR2', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR2', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR2', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR2', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR2', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR2', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR2', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR2', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR2', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR2', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR2', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR2', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR2', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR2', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR2', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR2', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR2', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR2', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR2', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR3', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR3', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR3', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR3', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR3', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR3', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR3', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR3', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR3', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR3', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR3', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR3', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR3', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR3', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR3', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR3', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR3', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR3', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR3', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR3', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR3', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR3', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR3', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR3', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR3', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR4', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR4', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR4', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR4', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR4', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR4', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR4', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR4', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR4', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR4', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR4', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR4', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR4', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR4', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR4', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR4', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR4', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR4', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR4', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR4', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR4', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR4', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR4', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR4', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR4', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR5', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR5', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR5', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR5', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR5', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR5', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR5', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR5', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'CR5', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'CR5', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR5', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR5', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR5', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR5', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR5', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR5', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR5', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'CR5', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR5', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR5', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR5', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR5', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR5', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR5', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'CR5', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 1', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 2', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 3', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 4', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Monday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Tuesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Wednesday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Thursday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '8:00-9:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '9:00-10:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '10:00-11:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '11:00-12:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '12:00-1:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '1:00-2:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '2:00-3:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}
+{'Name': 'Lab 5', 'Section': None, 'Time': '3:00-4:00', 'Teacher': None, 'Status': None, 'Day': 'Friday'}

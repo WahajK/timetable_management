@@ -1,0 +1,4 @@
+{'Name': 'Wahaj', 'Phone': '03032015436', 'Qualification': 'BSCS', 'Email': 'wahajkhan788@gmail.com', 'Address': 'A-1130, Phase-1, Gulshan-e-Hadeed', 'Consultion Hours': '8:00 am - 10:00 am', 'Department': 'CS'}
+{'Name': 'Ramis', 'Phone': '1234', 'Qualification': 'BSCS', 'Email': 'asdsa@gmail.com', 'Address': 'asdasd', 'Consultion Hours': '2:00-3:00', 'Department': 'CS'}
+{'Name': 'Taha', 'Phone': '090078601', 'Qualification': 'BSCS', 'Email': 'sadas@gmail.com', 'Address': 'Wasdasdsw', 'Consultion Hours': 'asdfas', 'Department': 'CS'}
+{'Name': '', 'Phone': '', 'Qualification': '', 'Email': '', 'Address': '', 'Consultion Hours': '', 'Department': ''}

@@ -1,0 +1,3 @@
+{'Name': 'Taha', 'Phone': 'was', 'Qualification': 'wa', 'Email': 'wa', 'Address': 'wa', 'Consultation Hours': '11:00-12:00', 'Department': 'CS', 'Pass': ''}
+{'Name': 'Rafay', 'Phone': '21321', 'Qualification': 'CS', 'Email': 'wads@nu.edu.pk', 'Address': 'asdwa', 'Consultation Hours': '8:00-9:00', 'Department': 'CS', 'Pass': 'sdsd', 'Room': 'SR1'}
+{'Name': 'Wahaj', 'Phone': '030302015436', 'Qualification': 'CS', 'Email': 'Wahajkhan788@gmail.com', 'Address': 'A-1130, Phase-1', 'Consultation Hours': '2:00-3:00', 'Department': 'CS', 'Pass': ''}
