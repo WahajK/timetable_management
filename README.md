@@ -27,7 +27,7 @@ The Timetable Management System is a Python-based application built using Tkinte
    ```bash
    python main.py
    ```
-2. **Follow the On-Screen Prompts**: The application will guide you through managing students, teachers, and room allocations. The default password for **Admin** is `admin:admin` which can be changed from the `Admin.py` file.
+2. **Follow the On-Screen Prompts**: The application will guide you through managing students, teachers, and room allocations. The default credentials for **Admin** is `admin:admin` which can be changed from the `Admin.py` file.
 
 ## File Structure
 
